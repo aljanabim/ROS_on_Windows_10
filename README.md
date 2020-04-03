@@ -17,5 +17,4 @@ alias coding='cd /mnt/c( or any partion name like d or e)/[folder where your cod
 
 
 # How to make Windows Terminal behave like Terminator on Ubnutu
-Open Windows Terminal and press Ctrl+,
-Copy the setting in  
+Open Windows Terminal and press Ctrl+, and copy the setting in [profile.json](/profile.json)
