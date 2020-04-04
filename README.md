@@ -65,5 +65,5 @@ Add these to ~/.bashrc
 
 ```bash
 source /opt/ros/kinetic/setup.bash
-source /mnt/d/coding/svea_reserach/devel/setup.bash
+source /mnt/d/coding/svea_research/devel/setup.bash
 ```
