@@ -30,3 +30,5 @@ With the help of [this](https://www.digitalocean.com/community/tutorials/how-to-
 # How to make Windows Terminal behave like Terminator on Ubnutu
 Open Windows Terminal and press Ctrl+,
 Copy the setting in  
+# How to make Windows Terminal behave like Terminator from Ubuntu
+Open Windows Terminal and press Ctrl+, and copy the setting in [profile.json](/profile.json)
