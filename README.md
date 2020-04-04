@@ -1,4 +1,4 @@
-# How to make ROS Kinetic/Melodic work on Windows
+# How to make ROS Kinetic/Melodic work on Windows 10
 
 This approach uses Windows Subsystems for Linux, WSL for short.
 
@@ -26,10 +26,7 @@ export LIBGL_ALWAYS_INDIRECT=
 ```
 The solution was found [here](https://github.com/ros-visualization/rviz/issues/1438)
 With the help of [this](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
-
-# How to make Windows Terminal behave like Terminator on Ubnutu
-Open Windows Terminal and press Ctrl+,
-Copy the setting in  
+ 
 # How to make Windows Terminal behave like Terminator from Ubuntu
 Open Windows Terminal and press Ctrl+, and copy the setting in [profile.json](/profile.json)
 
