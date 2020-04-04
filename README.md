@@ -16,6 +16,17 @@ alias coding='cd /mnt/c( or any partion name like d or e)/[folder where your cod
 ```
 
 
+### Troubleshooting
+If faced with error messages related to D-bus read this [article](https://x410.dev/cookbook/wsl/setting-up-wsl-for-linux-gui-apps/)
+
+If faced with error related to Segmentation error **Segmentation fault (core dumped)** 
+add the following to your ~/.bashrc 
+```bash
+export LIBGL_ALWAYS_INDIRECT=
+```
+The solution was found [here](https://github.com/ros-visualization/rviz/issues/1438)
+With the help of [this](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps)
+
 # How to make Windows Terminal behave like Terminator on Ubnutu
 Open Windows Terminal and press Ctrl+,
 Copy the setting in  
