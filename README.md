@@ -1,4 +1,4 @@
-# How to make ROS Kinetic/Melodic work on Windows
+# How to make ROS Kinetic/Melodic work on Windows 10
 
 This approach uses Windows Subsystems for Linux, WSL for short.
 
